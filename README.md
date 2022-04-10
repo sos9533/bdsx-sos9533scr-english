@@ -18,7 +18,7 @@ Made by sos9533
 │
 ├ user command
 │  ├ spawn command
-│  ├ custom tp command (3개)
+│  ├ custom tp command (3)
 │  ├ my info command
 │  └ basic command
 │
